@@ -1,4 +1,4 @@
-owner=472221987151020032
+owner=484047948246941697
 prefix=e
 game=Start eplay
 stayinchannel=true
